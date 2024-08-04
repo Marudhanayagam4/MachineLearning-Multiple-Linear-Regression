@@ -1,5 +1,5 @@
 
-## Startup profit predictor
+## Startup Profit Predictor
 
 ## Overview
 This project aims to predict the profit of startups based on various features such as R&D Spend, Administration, Marketing Spend, and the state of the startup. The model is built using multiple linear regression.
