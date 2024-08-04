@@ -1,5 +1,5 @@
-# MachineLearning-Multiple-Linear-Regression
-Startup profit predictor
+
+## Startup profit predictor
 
 ## Overview
 This project aims to predict the profit of startups based on various features such as R&D Spend, Administration, Marketing Spend, and the state of the startup. The model is built using multiple linear regression.
